@@ -1,0 +1,2 @@
+var num=-7
+console.log(num>0 ?"+ve":num<0 ?"-ve":"zero");
